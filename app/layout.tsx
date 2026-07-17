@@ -5,6 +5,7 @@ import { Inter } from 'next/font/google';
 import { ThemeProvider } from '@/components/theme-provider';
 import { Navbar } from '@/components/layout/navbar';
 import { Footer } from '@/components/layout/footer';
+import { Toaster } from "@/components/ui/sonner";
 
 const inter = Inter({ subsets: ['latin'] });
 
@@ -27,6 +28,7 @@ export default function RootLayout({
 						<Navbar />
 						<main className="flex-grow pt-16">{children}</main>
 						<Footer />
+						<Toaster richColors position="top-right" />
 					</div>
 				</ThemeProvider>
 			</body>
