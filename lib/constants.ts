@@ -96,7 +96,7 @@ export const projects: Project[] = [
     description:
       "Production-grade movie streaming platform built with Next.js 16, React 19, TypeScript, Cloudflare Workers, and TMDB API.",
 
-    image: "/public/1.png",
+    image: "/1.png",
 
     tags: ["Next.js", "TypeScript", "Cloudflare", "TMDB", "TanStack Query"],
 
@@ -110,7 +110,7 @@ export const projects: Project[] = [
     description:
       "A media downloader (TikTok, X, Instagram, Facebook, YouTube) ",
 
-    image: "/public/4.png",
+    image: "/4.png",
 
     tags: ["React", " Next.js", "TypeScript", "Tailwind"],
 
@@ -124,7 +124,7 @@ export const projects: Project[] = [
     description:
       "A full-stack real-time messaging platform using React, Express, MongoDB, Socket.IO, Zustand, and JWT authentication.",
 
-    image: "/public/2.png",
+    image: "/2.png",
 
     tags: ["React", "Express", "MongoDB", "Socket.IO", "Zustand", "JWT"],
 
@@ -138,7 +138,7 @@ export const projects: Project[] = [
     description:
       "Full-featured e-commerce platform with Google OAuth, Stripe, PayPal, admin dashboard, Cloudinary uploads, and responsive UI.",
 
-    image: "/public/3.png",
+    image: "/3.png",
 
     tags: ["React", "Node.js", "MongoDB", "Redux", "MUI", "Express"],
 
