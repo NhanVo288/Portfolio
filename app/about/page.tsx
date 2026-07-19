@@ -58,7 +58,7 @@ export default function AboutPage() {
             </div>
 
             <Button asChild>
-              <a href="https://nodeflair.com/api/v2/resumes/676822.pdf?download=true" download>
+              <a href="/resume.pdf" download>
                 Download CV
                 <ArrowDownCircle className="ml-2 h-4 w-4" />
               </a>

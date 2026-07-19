@@ -85,7 +85,7 @@ export function HeroSection() {
 							</Link>
 						</Button>
 						<Button size="lg" variant="outline" asChild>
-							<Link href="https://nodeflair.com/api/v2/resumes/676822.pdf?download=true" download>
+							<Link href="/resume.pdf" download>
 								Download CV <FileDown className="ml-2 h-4 w-4" />
 							</Link>
 						</Button>
